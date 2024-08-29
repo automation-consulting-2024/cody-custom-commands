@@ -1,0 +1,9 @@
+{
+  "refactorToFunction": {
+    "prompt": "Refactor the highlighted code snippet into a separate function. Make sure you use arrow function syntax and have proper typings for the function. Also add JSDoc above the function.",
+    "context": {
+      "selection": true
+    },
+    "mode": "ask"
+  }
+}
