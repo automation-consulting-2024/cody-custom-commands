@@ -5,5 +5,12 @@
       "selection": true
     },
     "mode": "ask"
+  },
+  "refactorReactComponent": {
+    "prompt": "Refactor the highlighted code into its own separate React component. Make sure you create an interface for the props and wrap it in a forwardRef. Make sure you use a return statement when returning the JSX and use named export instead of default export.",
+    "context": {
+      "selection": true
+    },
+    "mode": "ask"
   }
 }
